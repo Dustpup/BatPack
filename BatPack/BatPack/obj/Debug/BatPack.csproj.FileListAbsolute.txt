@@ -1,0 +1,19 @@
+C:\Users\Brandon\AppData\Local\Temporary Projects\BatPack\bin\Debug\BatPack.exe.config
+C:\Users\Brandon\AppData\Local\Temporary Projects\BatPack\bin\Debug\BatPack.exe
+C:\Users\Brandon\AppData\Local\Temporary Projects\BatPack\bin\Debug\BatPack.pdb
+C:\Users\Brandon\AppData\Local\Temporary Projects\BatPack\obj\Debug\BatPack.csprojResolveAssemblyReference.cache
+C:\Users\Brandon\AppData\Local\Temporary Projects\BatPack\obj\Debug\BatPack.exe
+C:\Users\Brandon\AppData\Local\Temporary Projects\BatPack\obj\Debug\BatPack.pdb
+G:\PROJECTS\REPOSITORIES\PROGRAMS\BatPack\BatPack\bin\Debug\BatPack.exe.config
+G:\PROJECTS\REPOSITORIES\PROGRAMS\BatPack\BatPack\bin\Debug\BatPack.exe
+G:\PROJECTS\REPOSITORIES\PROGRAMS\BatPack\BatPack\bin\Debug\BatPack.pdb
+G:\PROJECTS\REPOSITORIES\PROGRAMS\BatPack\BatPack\obj\Debug\BatPack.csprojResolveAssemblyReference.cache
+G:\PROJECTS\REPOSITORIES\PROGRAMS\BatPack\BatPack\obj\Debug\BatPack.exe
+G:\PROJECTS\REPOSITORIES\PROGRAMS\BatPack\BatPack\obj\Debug\BatPack.pdb
+G:\PROJECTS\REPOSITORIES\PROGRAMS\YEAR 2017\BatPack\BatPack\bin\Debug\BatPack.exe.config
+G:\PROJECTS\REPOSITORIES\PROGRAMS\YEAR 2017\BatPack\BatPack\bin\Debug\BatPack.exe
+G:\PROJECTS\REPOSITORIES\PROGRAMS\YEAR 2017\BatPack\BatPack\bin\Debug\BatPack.pdb
+G:\PROJECTS\REPOSITORIES\PROGRAMS\YEAR 2017\BatPack\BatPack\obj\Debug\BatPack.csproj.CoreCompileInputs.cache
+G:\PROJECTS\REPOSITORIES\PROGRAMS\YEAR 2017\BatPack\BatPack\obj\Debug\BatPack.exe
+G:\PROJECTS\REPOSITORIES\PROGRAMS\YEAR 2017\BatPack\BatPack\obj\Debug\BatPack.pdb
+G:\PROJECTS\REPOSITORIES\PROGRAMS\YEAR 2017\BatPack\BatPack\obj\Debug\BatPack.csprojAssemblyReference.cache
